@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="018ac1b3-90d1-4483-be90-58da4cecd145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Scraper.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonExport.csv" beforeDir="false" afterPath="$PROJECT_DIR$/PythonExport.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csvReader.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSVCleaner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/WikiTableScraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/.idea/rschecker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/PythonExport.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/PythonExportCopy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/csvReader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rschecker/rschecker.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="84" lean-forward="true" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,10 +26,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSVCleaner.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WikiTableScraper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -98,6 +88,11 @@
             <path>
               <item name="RsMerchProfit" type="b2602c69:ProjectViewProjectNode" />
               <item name="RsMerchProfit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RsMerchProfit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RsMerchProfit" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RsMerchProfit" type="b2602c69:ProjectViewProjectNode" />
@@ -240,19 +235,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSVCleaner.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Lib/site-packages/pandas/io/html.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2309">
@@ -277,6 +259,23 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSVCleaner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="84" lean-forward="true" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

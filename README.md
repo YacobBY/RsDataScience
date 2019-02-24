@@ -5,7 +5,7 @@ Have you ever thought "Wow, gathering data about shop prices and item profitabil
  Searching, compiling and neatly presenting you with what you want to know
  for all your merching adventures.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/YacobBY/RsDataScience/blob/master/assets/Scraper.gif)
 
 ### Instructions:
 First install the Pandas and beautifulsoup4 dependencies needed to run the program. 
