@@ -18,7 +18,7 @@ Then run the CSVCleaner.py file in order to clean remaining false-positives from
 
 ![alt text](https://github.com/YacobBY/RsDataScience/blob/master/assets/Cleaner.gif)
 
-You will now have a PythonExportCopy.csv file which contains all purchasable items and their profit
+You will now have a PythonExportCopy.csv file which contains all Runescape purchasable items and their profit
 margins by buying and selling them on the GE. Next up you can load this CSV into 
 
 ### Google Sheets.
