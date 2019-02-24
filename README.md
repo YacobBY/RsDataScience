@@ -16,6 +16,8 @@ in the rswiki and compile all items matching a certain table layout from the wik
 
 Then run the CSVCleaner.py file in order to clean remaining false-positives from the list.
 
+![alt text](https://github.com/YacobBY/RsDataScience/blob/master/assets/Cleaner.gif)
+
 You will now have a PythonExportCopy.csv file which contains all purchasable items and their profit
 margins by buying and selling them on the GE. Next up you can load this CSV into google sheets.
 
@@ -31,3 +33,4 @@ Column G, buy from GE sell to shop:  =E1-C1
 
 Column H, profit ratio  on GE-Shop: =D1/E1
 
+![alt text](https://github.com/YacobBY/RsDataScience/blob/master/assets/Margins.png)
