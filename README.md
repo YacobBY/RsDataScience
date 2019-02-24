@@ -19,13 +19,12 @@ Then run the CSVCleaner.py file in order to clean remaining false-positives from
 ![alt text](https://github.com/YacobBY/RsDataScience/blob/master/assets/Cleaner.gif)
 
 You will now have a PythonExportCopy.csv file which contains all purchasable items and their profit
-margins by buying and selling them on the GE. Next up you can load this CSV into google sheets.
+margins by buying and selling them on the GE. Next up you can load this CSV into 
+
+### google sheets.
 
 In order to calculate extra values, you can use the following formulas and drag them down to fill
 all respective indices in that column
-
-
-### Sheets: 
 
 Column F, buy from GE sell to shop:  =D1-E1
 
