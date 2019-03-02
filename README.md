@@ -3,7 +3,7 @@
 Have you ever thought "Wow, gathering data about shop prices and item profitability takes far too long"? Fear no longer because the future is now! Presenting: The RS Shop webscraper. 
  
  Searching, compiling and neatly presenting you with what you want to know
- for all your merching adventures.
+ for your merching adventures.
 
 ![alt text](https://github.com/YacobBY/RsDataScience/blob/master/assets/Scraper.gif)
 
