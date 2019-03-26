@@ -1,6 +1,6 @@
 ### Data Science for OSRS
 
-Have you ever thought "Wow, gathering data about shop prices and item profitability takes far too long"? Fear no longer because the future is now! Presenting: The RS Shop webscraper. 
+With this scraper you can automatically find out which items are profitable to buy from shops and sell to the GE.
  
  Searching, compiling and neatly presenting you with what you want to know
  for your merching adventures.
